@@ -1,6 +1,6 @@
 
 
-# Huitlacoche tacos
+# NEW Huitlacoche tacos
 
 This recipe is a cauliflower-free alternative inspired in the example recipe taken from https://github.com/sinker/tacofancy/blob/master/full_tacos/cauliflower_tacos.md.
 
